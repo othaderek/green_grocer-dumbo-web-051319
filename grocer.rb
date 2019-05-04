@@ -1,15 +1,6 @@
 def consolidate_cart(cart)
-  # code here
-end
-
-def apply_coupons(cart, coupons)
-  # code here
-end
-
-def apply_clearance(cart)
-  # code here
-end
-
-def checkout(cart, coupons)
-  # code here
+  new_hash = {}
+  cart.each do |item| # Here we are iterating into the array that contains the hashes 
+  
+  
 end
