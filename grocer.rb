@@ -12,3 +12,4 @@ def consolidate_cart(cart)
   end
   new_hash
 end
+
